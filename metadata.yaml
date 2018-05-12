@@ -1,0 +1,43 @@
+_repo: Selections-from-the-Writings-of-Lord-Dunsany_13664
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunsany, Lord
+    aliases:
+    - Dunsany, Edward John Moreton Drax Plunkett, Baron
+    - Plunkett, Edward John Moreton Drax, Baron Dunsany
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '2685'
+    url: http://www.gutenberg.org/2009/agents/2685
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
+  editor:
+    agent_name: Yeats, W. B. (William Butler)
+    alias: Yeats, William Butler
+    birthdate: 1865
+    deathdate: 1939
+    gutenberg_agent_id: '1719'
+    url: http://www.gutenberg.org/2009/agents/1719
+    wikipedia: http://en.wikipedia.org/wiki/William_Butler_Yeats
+description: ''
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2004-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13664'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature'
+- !lcsh 'Drama'
+- !lcc 'PR'
+tableOfContents: The Gods of the Mountain -- The First Act of King Argimenes and the
+  Unknown Warrior -- The Fall of Babbulkund -- The Sphinx at Gizeh -- Idle Days on
+  the Yann -- A Miracle -- The Castle of Time.
+title: Selections from the Writings of Lord Dunsany
+url: http://www.gutenberg.org/ebooks/13664
